@@ -34,9 +34,9 @@ This system retrieves relevant help articles, analyzes customer sentiment, predi
 ## 📂 Project Structure
 
 ├── src
-│ ├── components # UI components
-│ ├── contexts # State & logic providers
-│ ├── services # API & AI integration
+│ ├── components # UI components                                 
+│ ├── contexts # State & logic providers                        
+│ ├── services # API & AI integration                          
 │ ├── App.tsx # Root component
 │ ├── main.tsx # Entry point
 │ └── index.css # Global styles
