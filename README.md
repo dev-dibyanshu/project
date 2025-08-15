@@ -33,17 +33,17 @@ This system retrieves relevant help articles, analyzes customer sentiment, predi
 
 ## 📂 Project Structure
 
-├── src
+├── src                       
 │ ├── components # UI components                                 
 │ ├── contexts # State & logic providers                        
 │ ├── services # API & AI integration                          
-│ ├── App.tsx # Root component
-│ ├── main.tsx # Entry point
-│ └── index.css # Global styles
-├── public # Static assets
-├── vite.config.ts # Build configuration
-├── tailwind.config.js # Styling configuration
-└── package.json
+│ ├── App.tsx # Root component                       
+│ ├── main.tsx # Entry point                       
+│ └── index.css # Global styles                    
+├── public # Static assets                              
+├── vite.config.ts # Build configuration                        
+├── tailwind.config.js # Styling configuration                   
+└── package.json                       
 
 
 ---
